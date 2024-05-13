@@ -35,4 +35,3 @@ function conclusionDisplay () {
       console.log(`Result = ${valueA * valueB * valueC}`);
   };
 }
-
